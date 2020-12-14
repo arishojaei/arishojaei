@@ -1,2 +1,2 @@
 ### Hi folks 👋
-I'm a **UI Developer** in Tehran with about 5 years of professional experience as a UI Designer and Front-end developer and I've done more than 30 projects based on Iran and Europe.
+A self-taught Front-end developer with more than 2 years of useful experience. Mу specialization is websites design and development but I like to design UI sometimes, this means I experienced with design UI trends, UX and design tools like Figma and Adobe XD 
