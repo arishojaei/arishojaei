@@ -1,8 +1,8 @@
 ### Hi there 🖖  I'm Ari
 
 <a href="https://www.linkedin.com/in/ari-shojaei/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://twitter.com/AriShojaei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=arishojaei&color=gray)&nbsp;
+<a href="https://twitter.com/AriShojaei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=arishojaei&color=gray)
 
 <samp>I'm a self-taught freelance UI Developer (front-end developer & user interface designer) with almost 4-5 years of experience in this market. My main specialty is designing and develops landing pages that turn visitors into customers. Experienced in creating large-scale multi-role SPA dashboards with good UX. Good understanding of RESTful API. Good experience in teaching and leading junior developers.</samp>
 
