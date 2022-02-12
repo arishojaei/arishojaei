@@ -1,7 +1,7 @@
 ### Hi there 🖖  I'm Ari
 
 <a href="https://www.linkedin.com/in/ari-shojaei/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&color=0077b5"/></a>&nbsp;
-<a href="https://twitter.com/AriShojaei" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&color=1DA1F2"/></a>&nbsp;
+<a href="https://twitter.com/arishemmmm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&color=1DA1F2"/></a>&nbsp;
 <a href="https://dribbble.com/ari-shojaei" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/dribbble%20-%230077B5.svg?&style=flat&logo=dribbble&logoColor=white&color=ea4c89"/></a>&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=arishojaei&color=gray)
 
