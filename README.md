@@ -4,7 +4,11 @@
 <a href="https://dribbble.com/ari-shojaei" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/dribbble%20-%230077B5.svg?&style=flat&logo=dribbble&logoColor=white&color=ea4c89"/></a>&nbsp;
 <!-- ![profile count](https://komarev.com/ghpvc/?username=arishojaei&color=gray) -->
 
-I'm a self-taught freelance UI Developer (front-end developer & user interface designer) with almost 4-5 years of experience in this market. My main specialty is designing and develops landing pages that turn visitors into customers. Experienced in creating large-scale multi-role SPA dashboards with good UX. Good understanding of RESTful API. Good experience in teaching and leading junior developers.
+As a self-taught UI Developer with over 5 years of experience working in fintech and design agency companies, I have honed my skills in UI design and front-end development. My expertise lies in using technologies such as Javascript, Typescript, and Vuejs, in addition to RESTful and GraphQL to create advanced architectures with a simple approach.
+
+My understanding of UI design allows me to act as a liaison between the design and development teams, ensuring pixel-perfect implementation of designs. I have also demonstrated leadership skills, mentoring junior developers and designers to achieve their working goals and complete their tasks efficiently.
+
+Overall, I am passionate about creating intuitive and visually appealing user interfaces that enhance user experiences. With my technical expertise and design knowledge, I am confident in my ability to contribute value to any organization.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
