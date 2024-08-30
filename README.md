@@ -4,11 +4,11 @@
 <a href="https://dribbble.com/ari-shojaei" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/dribbble%20-%230077B5.svg?&style=flat&logo=dribbble&logoColor=white&color=ea4c89"/></a>&nbsp;
 <!-- ![profile count](https://komarev.com/ghpvc/?username=arishojaei&color=gray) -->
 
-As a self-taught UI Developer with over 5 years of experience working in fintech and design agency companies, I have honed my skills in UI design and front-end development. My expertise lies in using technologies such as Javascript, Typescript, and Vuejs, in addition to RESTful and GraphQL to create advanced architectures with a simple approach.
+As a self-taught UI Developer with over 5 years of experience in fintech and design agencies, I've turned my passion for clean code and sleek design into a full-time gig. From crafting seamless user interfaces to building advanced front-end architectures, I’m all about making tech look good and work effortlessly. My toolbox includes Javascript, Typescript, Vue.js, and the magical powers of RESTful and GraphQL.
 
-My understanding of UI design allows me to act as a liaison between the design and development teams, ensuring pixel-perfect implementation of designs. I have also demonstrated leadership skills, mentoring junior developers and designers to achieve their working goals and complete their tasks efficiently.
+Thanks to my design-savvy side, I bridge the gap between designers and developers, making sure every pixel is perfectly placed. I’ve also stepped into the mentor role, helping junior devs and designers level up their skills and smash their goals.
 
-Overall, I am passionate about creating intuitive and visually appealing user interfaces that enhance user experiences. With my technical expertise and design knowledge, I am confident in my ability to contribute value to any organization.
+At the core of it all, I’m driven by a love for creating intuitive, visually appealing user experiences. With my blend of technical chops and design smarts, I’m ready to bring some serious value to any team I join.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
